@@ -8,4 +8,6 @@
  
  ### Hello2.c
  * Comando Ejecutado:
- * Resultado o error obtenido:
+ ** a
+ ** gcc -E -P hello2.c -o hello22.i
+ * Resultado o error obtenido: 
