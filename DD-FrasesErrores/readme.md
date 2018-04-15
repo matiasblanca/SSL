@@ -6,6 +6,6 @@
 ## Objetivo
  * Identificar las fases de traducción y errores.
  
- ###Hello2.c
+ ### Hello2.c
  *Comando Ejecutado:
  *Resultado o error obtenido:
