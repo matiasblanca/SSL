@@ -7,5 +7,5 @@
  * Identificar las fases de traducción y errores.
  
  ### Hello2.c
- *Comando Ejecutado:
- *Resultado o error obtenido:
+ * Comando Ejecutado:
+ * Resultado o error obtenido:
